@@ -1,0 +1,34 @@
+! Title: healsdata's filterlist
+! Description: Filters tested via uBlock Origin
+! Homepage: https://github.com/healsdata/filterlist
+! Licence: https://creativecommons.org/licenses/by-sa/4.0/
+!
+! Expires: 7 days
+
+! Cybersquatting artists on twitter. https://twitter.com/ohayouclothing/status/1190821297493872641
+bluepotion.co
+ohayouclothing.com
+ohayouclothing.co.uk
+onyansumi.com
+elenawing.co.uk
+syrencove.com
+
+! Deadspin associated sites and parent companies. https://www.npr.org/2019/11/02/775664379/the-death-of-deadspin
+avclub.com
+deadspin.com
+g-omedia.com
+gizmodo.com
+gizmodomedia.com
+greathillpartners.com
+jalopnik.com
+jezebel.com
+kinja.com
+kotaku.com
+lifehacker.com
+theroot.com
+thetakeout.com
+clickhole.com
+splinternews.com
+theonion.com
+theinventory.com
+kinja.com
