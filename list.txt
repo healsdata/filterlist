@@ -32,3 +32,6 @@ splinternews.com
 theonion.com
 theinventory.com
 kinja.com
+
+! TVTropes subscription popover
+tvtropes.org##div:has(p > [href="/pmwiki/ad-free-subscribe.php"])
