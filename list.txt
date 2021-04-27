@@ -35,3 +35,18 @@ kinja.com
 
 ! TVTropes subscription popover
 tvtropes.org##div:has(p > [href="/pmwiki/ad-free-subscribe.php"])
+
+! Conde Nast Brands https://www.theguardian.com/media/2021/mar/29/new-yorker-union-strike-conde-nast-ars-technica-pitchfork
+epicurious.com
+arstechnica.com
+architecturaldigest.com
+allure.com
+bonappetit.com
+johansens.com
+glamour.com
+gq.com
+teenvogue.com
+vogue.com
+newyorker.com
+wired.com
+
