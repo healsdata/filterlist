@@ -33,9 +33,6 @@ theonion.com
 theinventory.com
 kinja.com
 
-! TVTropes subscription popover
-tvtropes.org##div:has(p > [href="/pmwiki/ad-free-subscribe.php"])
-
 ! Conde Nast Brands https://www.theguardian.com/media/2021/mar/29/new-yorker-union-strike-conde-nast-ars-technica-pitchfork
 epicurious.com
 arstechnica.com
@@ -52,3 +49,24 @@ wired.com
 
 ! https://twitter.com/Natural1Crafts/status/1556763079840374785
 geeksandgamers.com
+
+! Subscription popovers
+tvtropes.org##div:has(p > [href="/pmwiki/ad-free-subscribe.php"])
+tech.slashdot.org##.mc-modal
+
+! Various ads I've encountered on smaller sites below this point
+northpennnow.com##[data-adid]
+northpennnow.com###stickybottom
+
+www.christmascity.org##.square-footer.ad
+||www.steelstacks.org/wp-content/themes/aq/images/sponsors/*$image
+||www.musikfest.org/wp-content/themes/aq/images/sponsors/*$image
+||www.levittsteelstacks.org/wp-content/themes/aq/images/sponsors/*$image
+||www.bananafactory.org/wp-content/themes/aq/images/sponsors/*$image
+www.steelstacks.org##body:style(background-color: black !important; background-image: none !important; )
+
+
+
+
+
+
