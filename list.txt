@@ -15,23 +15,17 @@ syrencove.com
 
 ! Deadspin associated sites and parent companies. https://www.npr.org/2019/11/02/775664379/the-death-of-deadspin
 avclub.com
-deadspin.com
-g-omedia.com
 gizmodo.com
-gizmodomedia.com
-greathillpartners.com
 jalopnik.com
-jezebel.com
-kinja.com
 kotaku.com
-lifehacker.com
+theonion.com
+qz.com
 theroot.com
 thetakeout.com
-clickhole.com
-splinternews.com
-theonion.com
 theinventory.com
-kinja.com
+g-omedia.com
+gizmodomedia.com
+greathillpartners.com
 
 ! Conde Nast Brands https://www.theguardian.com/media/2021/mar/29/new-yorker-union-strike-conde-nast-ars-technica-pitchfork
 epicurious.com
@@ -46,6 +40,7 @@ teenvogue.com
 vogue.com
 newyorker.com
 wired.com
+pitchfork.com
 
 ! https://twitter.com/Natural1Crafts/status/1556763079840374785
 geeksandgamers.com
@@ -57,7 +52,7 @@ tech.slashdot.org##.mc-modal
 ! Various ads I've encountered on smaller sites below this point
 northpennnow.com##[data-adid]
 northpennnow.com###stickybottom
-
+www.goodnewsnetwork.org##[href^="http://gnn.to/"][href$="-ad"]
 www.christmascity.org##.square-footer.ad
 ||www.steelstacks.org/wp-content/themes/aq/images/sponsors/*$image
 ||www.musikfest.org/wp-content/themes/aq/images/sponsors/*$image
