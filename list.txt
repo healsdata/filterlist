@@ -13,6 +13,9 @@ onyansumi.com
 elenawing.co.uk
 syrencove.com
 
+! https://twitter.com/Natural1Crafts/status/1556763079840374785
+geeksandgamers.com
+
 ! Deadspin associated sites and parent companies. https://www.npr.org/2019/11/02/775664379/the-death-of-deadspin
 avclub.com
 gizmodo.com
@@ -41,8 +44,29 @@ newyorker.com
 wired.com
 pitchfork.com
 
-! https://twitter.com/Natural1Crafts/status/1556763079840374785
-geeksandgamers.com
+! Hidden Sources from Google News 06/2024
+breitbart.com
+fandomwire.com
+businessinsider.com
+dailymail.co.uk
+foxnews.com
+insidethemagic.net
+MassLive.com
+nypost.com
+newsweek.com
+thehill.com
+fool.com
+tmz.com
+the-sun.com
+wsj.com
+washingtonpost.com
+inverse.com
+foxbusiness.com
+nationalreview.com
+
+! Platforms Nazis
+substackcdn.com
+substack.com
 
 ! Subscription popovers
 tvtropes.org##div:has(p > [href="/pmwiki/ad-free-subscribe.php"])
