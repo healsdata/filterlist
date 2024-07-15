@@ -68,6 +68,9 @@ nationalreview.com
 substackcdn.com
 substack.com
 
+! https://www.deccanherald.com/brandspot/sponsored/what-is-the-stickermule-controversy-a-troubled-brand-1225028.html
+StickerMule.com
+
 ! Subscription popovers
 tvtropes.org##div:has(p > [href="/pmwiki/ad-free-subscribe.php"])
 tech.slashdot.org##.mc-modal
