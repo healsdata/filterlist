@@ -63,6 +63,14 @@ washingtonpost.com
 inverse.com
 foxbusiness.com
 nationalreview.com
+thescoop.us
+cnn.com
+forbes.com
+theatlantic.com
+thedailybeast.com
+nytimes.com
+usatoday.com
+news.yahoo.com
 
 ! Platforms Nazis
 substackcdn.com
